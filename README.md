@@ -1,6 +1,6 @@
 # Food-Wrap
 
-<img src="[drawing.jpg](https://user-images.githubusercontent.com/83583852/196516348-a567c337-5b7b-41fd-8b3d-d16ce1817b19.jpg)" alt="drawing" style="width:200px; height:500px;"/>
+<img src="[https://user-images.githubusercontent.com/83583852/196516348-a567c337-5b7b-41fd-8b3d-d16ce1817b19.jpg]" alt="drawing" style="width:200px; height:500px;"/>
 ![Screenshot_2022-08-05-01-21-25-470_com vineet foodwrap](https://user-images.githubusercontent.com/83583852/196516348-a567c337-5b7b-41fd-8b3d-d16ce1817b19.jpg)
 ![Screenshot_2022-08-05-01-21-31-209_com vineet foodwrap](https://user-images.githubusercontent.com/83583852/196516359-a70c814f-0d73-4b7f-b1ec-fc0946ae1297.jpg)
 ![Screenshot_2022-08-05-01-22-55-586_com vineet foodwrap](https://user-images.githubusercontent.com/83583852/196516363-75d9b16a-a809-469d-a2e3-a4939e5f249a.jpg)
