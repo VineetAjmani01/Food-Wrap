@@ -1,7 +1,7 @@
 # Food-Wrap
 
-<img src="https://user-images.githubusercontent.com/83583852/196516348-a567c337-5b7b-41fd-8b3d-d16ce1817b19.jpg" style="width:200px; height:430px;"/>
-<img src="https://user-images.githubusercontent.com/83583852/196516359-a70c814f-0d73-4b7f-b1ec-fc0946ae1297.jpg" style="width:200px; height:430px;"/>
+<img src="https://user-images.githubusercontent.com/83583852/196516348-a567c337-5b7b-41fd-8b3d-d16ce1817b19.jpg" style="width:200px; height:430px;"/><img src="https://user-images.githubusercontent.com/83583852/196516359-a70c814f-0d73-4b7f-b1ec-fc0946ae1297.jpg" style="width:200px; height:430px;"/>
+
 <img src="https://user-images.githubusercontent.com/83583852/196516363-75d9b16a-a809-469d-a2e3-a4939e5f249a.jpg" style="width:200px; height:430px;"/>
 <img src="https://user-images.githubusercontent.com/83583852/196516366-249399b6-0f96-4840-9352-f43236420f7e.jpg" style="width:200px; height:430px;"/>
 <img src="https://user-images.githubusercontent.com/83583852/196516368-5410cbfc-d49a-46d5-932d-763afae26b05.jpg" style="width:200px; height:430px;"/>
