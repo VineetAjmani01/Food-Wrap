@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/drawable/date.xml" value="0.1885" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/drawable/date2.xml" value="0.1885" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/drawable/menu.xml" value="0.124" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/drawable/message.xml" value="0.124" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_foodie_form.xml" value="0.264" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_get_started.xml" value="0.24010416666666667" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_loginngo.xml" value="0.4" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_ngo_request.xml" value="0.25416666666666665" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_ngodashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_ngologin.xml" value="0.25416666666666665" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_ngologin2.xml" value="0.25416666666666665" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_ngosignup.xml" value="0.264" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_raise_request.xml" value="0.25416666666666665" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_restaurant_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_restaurant_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_restaurant_signup.xml" value="0.24010416666666667" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/activity_verifyotp.xml" value="0.25416666666666665" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/fragment_feed.xml" value="0.11302083333333333" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/fragment_login_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/fragment_resttaurant_home.xml" value="0.24010416666666667" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/layout/item_view.xml" value="0.264" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/menu/mymenu.xml" value="0.11302083333333333" />
+        <entry key="..\:/android development/FOODWRAP/app/src/main/res/menu/restaurantmenu.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

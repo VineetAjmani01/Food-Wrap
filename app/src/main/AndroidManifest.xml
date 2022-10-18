@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.vineet.foodwrap">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FOODWRAP"
+        tools:targetApi="31">
+        <activity
+            android:name=".RestaurantDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NgoRequestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RaiseRequest"
+            android:exported="false" />
+        <activity
+            android:name=".NGODashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RestaurantSignupActivity"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantLoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginngoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NGOSignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".verifyotpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodieFormActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GetStartedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042430434425",
+    "project_id": "food-wrap-20215",
+    "storage_bucket": "food-wrap-20215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042430434425:android:0df8d6af8041d076fb48a8",
+        "android_client_info": {
+          "package_name": "com.vineet.foodwrap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042430434425-hea2e1koeaoh0k4g5nioan1boca4qacp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCboVnbDdGis0BhgKrglnTHx5dZkpvKIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042430434425-hea2e1koeaoh0k4g5nioan1boca4qacp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
